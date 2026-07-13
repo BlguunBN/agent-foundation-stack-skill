@@ -1,0 +1,6 @@
+interface:
+  display_name: "Agent Foundation Stack"
+  short_description: "Base rollout for agent systems"
+  default_prompt: "Use $agent-foundation-stack to set up the foundation stack, apply phase 1 and 2, and verify the result before adding specialty workflows."
+policy:
+  allow_implicit_invocation: true
