@@ -1,0 +1,6 @@
+interface:
+  display_name: "Job Search Apply Agent"
+  short_description: "Rank job leads and draft tailored application notes"
+  default_prompt: "Use $job-search-apply-agent to normalize job leads, shortlist the best ones, and prepare tailored application notes or follow-up steps."
+policy:
+  allow_implicit_invocation: true
