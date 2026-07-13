@@ -1,0 +1,6 @@
+interface:
+  display_name: "Source Collection Agent"
+  short_description: "Classify, clean, and summarize source material"
+  default_prompt: "Use $source-collection-agent to normalize source material, classify it, and summarize what is worth acting on."
+policy:
+  allow_implicit_invocation: true
